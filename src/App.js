@@ -9,7 +9,10 @@ export default function App() {
     "🧨": "Cracker",
     "❤": "Love",
     "😂": "Laugh",
-    "": ""
+    "👏": "Clapping",
+    "💃": "dancing",
+    "🌠": "shooting star",
+    "👩‍💻": "coding"
   };
 
   const onlyEmojiKeys = Object.keys(emojiDict);
