@@ -12,7 +12,9 @@ export default function App() {
     "👏": "Clapping",
     "💃": "dancing",
     "🌠": "shooting star",
-    "👩‍💻": "coding"
+    "👩‍💻": "coding",
+    "🥳": "party",
+    "👊": "punch"
   };
 
   const onlyEmojiKeys = Object.keys(emojiDict);
